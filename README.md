@@ -20,4 +20,4 @@ Hasil penyelesaian tutorial **Getting Started with Laravel** dari https://larave
 - Tailwind CSS & DaisyUI
 
 ## Repository
-https://github.com/mifdev0/tugas-uts-pemweb-a710230087
+https://github.com/Ipbnuuu/Tugas_UTS_A710230119.git
